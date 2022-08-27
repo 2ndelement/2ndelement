@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🕐 wait for my edits
-- 🎈 that's so cool
+- 🎈 that's so cool ~
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2ndelement)](https://github.com/anuraghazra/github-readme-stats)
