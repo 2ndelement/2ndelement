@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 🕐 wait for my edits
 - 🎈 that's so cool ~
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2ndelement)](https://github.com/anuraghazra/github-readme-stats)
+[![2ndelement's GitHub stats](https://github-readme-stats.vercel.app/api?username=2ndelement)](https://github.com/anuraghazra/github-readme-stats)
+![2ndelement's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=2ndelement&show_icons=true&count_private=true&theme=gotham)
